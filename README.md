@@ -1,2 +1,1 @@
-# GCI2K19
-GCI 2019
+My First Repository
